@@ -1,0 +1,11 @@
+{
+  "name": "24-2022-11-16-javascriptejers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Cards.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
